@@ -4,7 +4,6 @@ PropTypes = React.PropTypes
 App = require 'layouts/App'
 ContentView = require 'views/ContentView'
 
-
 Root = React.createClass
   render: ->
     <div>
